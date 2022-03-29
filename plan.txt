@@ -1,0 +1,3 @@
+create midi file
+play midi file
+song notations in solfege (https://en.wikipedia.org/wiki/Solfège) symbols
